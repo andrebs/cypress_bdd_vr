@@ -21,3 +21,6 @@ We have:
 
 - "cypress": "^9.3.1",
 - "cypress-cucumber-preprocessor": "^4.3.1"
+
+<h2>Node Version</h2>
+- v14.18.1
